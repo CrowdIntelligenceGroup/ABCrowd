@@ -1,7 +1,11 @@
 # ABCrowd: An Auction Mechanism on Blockchain for Spatial Crowdsourcing
 
+ABCrowd is an auction mechanism designed to run entirely on Ethereum Blockchain within a crowdsourcing platform. ABCrowd uses the Repeated-Single-Minded Bidder (R-SMB) auction mechanism, which motivates workers to bid truthfully before allocating them to tasks and calculating their payments. On the other hand, Blockchain and smart contracts guarantee trusted execution for the crowdsourcing platform by the autonomous and transparent on-Chain execution.
+
+The current version is developed on the Ethereum network using Solidity Language. It has one smart contract constituting the auction mechanism.
 
 # Research Team
+
 <b>PhD Candidate</b>
 
 Maha Kadadha (Khalifa University, UAE) 
